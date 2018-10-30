@@ -9,7 +9,7 @@ package pkg;
  */
 public class Person {
 	private int age;
-	private int height;
+	private int height ;
 
 	/**
 	 * @return the age
